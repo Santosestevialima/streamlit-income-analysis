@@ -46,8 +46,8 @@ streamlit-income-analysis/
 1. Clone o repositório:
 ```bash
 git clone https://github.com/Santosestevialima/streamlit-income-analysis.git
-
+ ´´´bash
 2. Acesse a pasta do prjeto :
-```bash
+
 cd streamlit-income-analysis
 
