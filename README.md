@@ -46,8 +46,14 @@ streamlit-income-analysis/
 1. Clone o repositório:
 ```bash
 git clone https://github.com/Santosestevialima/streamlit-income-analysis.git
- bash´´´ 
+ 
 2. Acesse a pasta do prjeto :
 
 cd streamlit-income-analysis
+
+3. instale as dependências(recomendo utilizar o ambiente virtual):
+pip install -r requirements.txt
+
+4. Execute a aplicação :
+streamlit run app/appy.py
 
